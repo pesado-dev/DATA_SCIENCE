@@ -1,2 +1,2 @@
-# curso_de_dados
+# DATA_SCIENCE
 evolução
